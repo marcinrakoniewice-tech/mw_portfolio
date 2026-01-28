@@ -1,0 +1,17 @@
+site_name: Moje projekty
+site_author: Marcin Wołk
+site_description: >-
+    Portfolio moich projektów z Data Science i AI.
+
+theme:
+  name: material
+  palette:
+    primary: 'teal'
+    accent: 'orange'
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Titanic": titanic/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
