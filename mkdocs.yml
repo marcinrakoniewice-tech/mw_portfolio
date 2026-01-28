@@ -1,7 +1,11 @@
 site_name: Moje projekty
 site_author: Marcin Wołk
+site_url: https://marcinrakoniewice-tech.github.io/mw_portfolio
 site_description: >-
     Portfolio moich projektów z Data Science i AI.
+
+repo_name: marcinrakoniewice-tech/mw_portfolio
+repo_url: https://github.com/marcinrakoniewice-tech/mw_portfolio
 
 theme:
   name: material
