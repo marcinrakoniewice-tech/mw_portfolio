@@ -1,14 +1,14 @@
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Analiza statystyczna tragedii Titanic
 
-**2025-10-05**
+**2025-11-06**
 
-Zapraszamy do zapoznania się z moim pierwszym projektem, który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
+Zapraszamy do zapoznania się z moim drugim projektem, przeanalizowałem w nim dane z najgłośniejszej katastrofy oceanicznej. Tak, chodzi o katastrofę Tytanica, przyjrzałem się temu jak tą słyną katastrofę opisują liczy. Miłej lektury.
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 <iframe
     id="content"
-    src="iris.html"
+    src="titanic.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

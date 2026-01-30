@@ -1,4 +1,4 @@
-site_name: Moje projekty
+site_name: Moje Portfolio
 site_author: Marcin Wołk
 site_url: https://marcinrakoniewice-tech.github.io/mw_portfolio
 site_description: >-
@@ -16,6 +16,7 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "Titanic": titanic/index.md
+  - "Backtester": backtest_v1/index.md
 - Poprzednie projekty:
+  - "Titanic": titanic/index.md
   - "Iris": iris/index.md
